@@ -2,7 +2,7 @@ name: Send email
 
 on:
   schedule:
-    - cron: '30 3 * * *'
+    - cron: '20 22 * * *'
 
 # If uncommented run on every push to every branch for easier debugging
 # on: push
